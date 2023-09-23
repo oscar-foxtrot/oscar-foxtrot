@@ -7,6 +7,6 @@
 <br><br>
 I am Oleg, a computer science / maths student from the Russian Federation
 <br>
-Currently studying for a bachelor's degree at [Lomonosov Moscow State University](https://www.msu.ru/en/) in Moscow, [CMC](https://cs.msu.ru/en) department
+Currently studying for a bachelor's degree at [Lomonosov Moscow State University](https://www.msu.ru/en/) in Moscow, [CMC](https://cs.msu.ru/en) department.
 
 
