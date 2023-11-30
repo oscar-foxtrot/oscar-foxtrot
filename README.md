@@ -1,5 +1,5 @@
 ### Hey there 👋🏻
- [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=black)](https://www.linkedin.com/in/oleg-fostenko-955a822a2/)
+ [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=black)](https://www.linkedin.com/in/oleg-fostenko/)
  &nbsp;
 [![Gmail](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335&color=black)](https://mail.google.com/mail/u/0/?fs=1&to=oleg.fostenko.03@gmail.com&su=&body=&bcc=&tf=cm) 
  &nbsp;
