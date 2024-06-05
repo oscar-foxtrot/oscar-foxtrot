@@ -8,7 +8,7 @@
 [![VK](https://img.shields.io/badge/-VK-white?style=for-the-badge&logo=vk&logoColor=white&labelColor=%230077FF&color=black)](https://vk.com/av1at0r) 
 <br><br>
 
-I'm Oleg, a computer science / maths student from Moscow, Russian Federation [<img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/ru_flag.svg" width="20"/>]()
+I'm Oleg, a computer science / maths student from Moscow, Russia [<img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/ru_flag.svg" width="20"/>]()
 <br>
 Currently studying for a bachelor's degree at [Lomonosov Moscow State University](https://www.msu.ru/en/), [CMC](https://cs.msu.ru/en) department [<img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/cmc_msu.png" width="25"/>]()
 
