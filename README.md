@@ -5,7 +5,6 @@
  &nbsp;
 [![Telegram](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&logoColor=white&labelColor=%2326A5E4&color=black&link=https%3A%2F%2Ft.me%2Foscar_foxtrot)](https://t.me/oscar_foxtrot) 
  &nbsp;
-[![VK](https://img.shields.io/badge/-VK-white?style=for-the-badge&logo=vk&logoColor=white&labelColor=%230077FF&color=black)](https://vk.com/av1at0r) 
 <br><br>
 
 I'm Oleg, a computer science / maths student from Moscow, Russia [<img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/ru_flag.svg" width="20"/>]()
