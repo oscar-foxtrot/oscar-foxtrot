@@ -1,7 +1,7 @@
 <h3>Hey there 👋🏻</h3>
 
 
-I'm Oleg, a computer science / maths student from Moscow, Russia [<img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/ru_flag.svg" width="20"/>]()
+I'm Oleg, a computer science / maths student from Moscow, Russia
 <br>
 Currently studying for a bachelor's degree at [Lomonosov Moscow State University](https://www.msu.ru/en/), [CMC](https://cs.msu.ru/en) department [<img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/cmc_msu.png" width="25"/>]()
 <br><br><br>
