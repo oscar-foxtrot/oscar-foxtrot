@@ -1,7 +1,7 @@
 <h3>Hey there 👋🏻</h3>
 
 
-I'm Oleg, a computer science / maths student from Moscow, Russia
+I'm Oleg, a computer science / maths student from Moscow, Russia 💻
 <br>
 Currently studying for a bachelor's degree at [Lomonosov Moscow State University](https://www.msu.ru/en/), [CMC](https://cs.msu.ru/en) department
 <br><br>
