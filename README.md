@@ -3,7 +3,7 @@
 
 I'm Oleg, a computer science / maths student from Moscow, Russia
 <br>
-Currently studying for a bachelor's degree at [Lomonosov Moscow State University](https://www.msu.ru/en/), [CMC](https://cs.msu.ru/en) department [<img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/cmc_msu.png" width="25"/>]()
+Currently studying for a bachelor's degree at [Lomonosov Moscow State University](https://www.msu.ru/en/), [CMC](https://cs.msu.ru/en) department
 <br><br><br>
 
 <a href="https://oscar-foxtrot.github.io/"><img src="https://github.com/oscar-foxtrot/oscar-foxtrot/blob/main/icons/about_me.png" alt="Click Me!" style="margin-top: 20px;" width="300"></a><br><br>
